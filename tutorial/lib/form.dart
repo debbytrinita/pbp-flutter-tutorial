@@ -251,7 +251,6 @@ class _MyFormPageState extends State<MyFormPage> {
                                         textAlign: TextAlign.center,
                                       ),
                                       SizedBox(height: 10),
-                                      // TODO: Munculkan informasi yang didapat dari form
                                       TextButton(
                                         onPressed: () {
                                           Navigator.pop(context);
